@@ -1,5 +1,5 @@
 /*
-  Bruce A. Maxwell
+  Adit Shah & Jheel Kamdar
   January 2025
 
   An example of using the DA2Network class with OpenCV for a video stream
