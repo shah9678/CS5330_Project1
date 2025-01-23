@@ -1,6 +1,5 @@
 /*
-  Bruce A. Maxwell
-  January 2025
+  Adit Shah & Jheel Kamdar
 
   An example of using the DA2Network class with OpenCV.
 
